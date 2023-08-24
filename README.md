@@ -1,4 +1,4 @@
-<img align="left" width="100" src="https://avatars.githubusercontent.com/u/63101155">
+<img align="left" width="100" src="avatar.webp">
 
 ### Hi there 👋
   I'm tomoayan who loves to contribute on FOSS projects and passionate about technology, in this domain my highly interested topics are Ethical Hacking, Cyber Security and UI/UX. You can see me to contribute on these topics frequently, along with this I try to contribute as a translator to different projects.
